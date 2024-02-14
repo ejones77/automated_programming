@@ -1,0 +1,3 @@
+[submodule "go_with_stats"]
+	path = go_with_stats
+	url = https://github.com/ejones77/go_with_stats
