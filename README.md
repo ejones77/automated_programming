@@ -1,4 +1,7 @@
 # automated_programming
+
+Submitted assignment for Northwestern MSDS 431
+
 Testing different automated programming methods on a previous Go assignment
 
 This reposiory tests three different automated programming methods on a previous assignment repository `go_with_stats` to see how well the AI stacks up in approaching the problem when prompted.
